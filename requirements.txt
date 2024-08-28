@@ -3,3 +3,5 @@ pandas
 prophet
 plotly
 numpy
+openpyxl
+xlsxwriter
